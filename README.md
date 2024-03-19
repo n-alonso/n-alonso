@@ -10,5 +10,5 @@ For a long time I thought it was out of my reach but when I moved to Lithuania a
 - ✉️ The best way to reach me is through my [LinkedIn](https://www.linkedin.com/in/nicolas-alonso-11853017a/).
 
 ### Portfolio
-If you want to have a look at my work, please check [this project](https://github.com/n-alonso/NODEJS-koa_typescript_knex_jest)!  
+If you want to have a look at my work, please check [this project](https://github.com/n-alonso/NODEJS-open-banking-sandbox)!  
 I've also added value to my previous companies, for example with [this script](https://github.com/n-alonso/SCRIPT-copy-banks-access)!
