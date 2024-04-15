@@ -6,7 +6,7 @@ For a long time I thought it was out of my reach but when I moved to Lithuania a
 - 💪 I have been working primarily with JavaScript for the backend for the last 4 years.
 - 💼 Around 1 year commercial experience.
 - 📚 Recently I've been working with TypeScript.
-- 📚 Currently learning Java and DevOps.
+- 📚 Currently learning DevOps and Java.
 - ✉️ The best way to reach me is through my [LinkedIn](https://www.linkedin.com/in/nicolas-alonso-11853017a/).
 
 ### Portfolio
