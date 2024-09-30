@@ -11,4 +11,3 @@ For a long time I thought it was out of my reach but when I moved to Lithuania a
 
 ### Portfolio
 If you want to have a look at my work, please check my [open banking client](https://github.com/n-alonso/NODEJS-open-banking-sandbox)!  
-I've also added value to my previous companies, for example with [this script](https://github.com/n-alonso/SCRIPT-copy-banks-access)!
