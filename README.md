@@ -15,4 +15,5 @@ If you want to have a look at my work, please check my [open banking client](htt
 ### Activity
 Since I joined my current company my activity happens at my Gitlab's work account.  
 Here is a sneak peak at the time of writing (Nov 2024):  
+
 ![image](https://github.com/user-attachments/assets/4c460d59-fa12-430d-97f3-e954c7d29acb)
