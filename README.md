@@ -9,7 +9,7 @@ For a long time I thought it was out of my reach but when I moved to Lithuania t
 - ✉️ The best way to reach me is through my [LinkedIn](https://www.linkedin.com/in/nicolas-alonso-11853017a/).
 
 ### Portfolio
-If you want to have a look at my **backend** or **frontend** work, you can check my [Progress Tracker](https://github.com/n-alonso/ci-catalog)!  
+If you want to have a look at my **backend** or **frontend** work, you can check my [Progress Tracker](https://github.com/n-alonso/progress-tracker)!  
 For **devops** I have a [CI Catalog](https://github.com/n-alonso/ci-catalog) as a small example
 
 ### Activity
